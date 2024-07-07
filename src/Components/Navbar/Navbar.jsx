@@ -1,9 +1,9 @@
 import React from 'react'
-import styles from './Navbar.module.css'
+import './Navbar.css'
 
 function Navbar() {
   return (
-    <div className={styles.title}>
+    <div className='title'>
         Expense Tracker
     </div>
   )
