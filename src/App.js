@@ -4,8 +4,9 @@ import Navbar from './Components/Navbar/Navbar';
 
 function App() {
   return (
-    <div >
-      <Navbar />
+    <div style={{color: 'white'}}>
+      {/* <Navbar /> */}
+      hello testing working 
     </div>
   );
 }
